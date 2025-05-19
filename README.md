@@ -31,5 +31,5 @@ To use any of the templates in this repository, follow these steps:
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-username/html-css-templates.git
+   git clone https://github.com/Algorhythmic-Duo/html-css-templates.git
    ```
